@@ -32,8 +32,8 @@ Building scalable solutions at one of Norway's largest financial companies
 **🗣️ Languages I speak**  
 English • Norwegian • Japanese • Vietnamese
 
-**🎯 Philosophy**  
-Build things that solve real problems with minimal complexity
+**⚙️ Philosophy**  
+Build things that solve real problems with clean, efficient code
 
 </td>
 </tr>
@@ -46,8 +46,10 @@ Build things that solve real problems with minimal complexity
 <div align="center">
 
 ![Working on](https://img.shields.io/badge/🚀%20Revolutionary-Language%20Learning%20App-ff6b6b?style=for-the-badge&labelColor=darkred)
+![Portfolio](https://img.shields.io/badge/💼%20Portfolio-Next.js%20Website-00d4aa?style=for-the-badge&labelColor=teal)
 ![Banking](https://img.shields.io/badge/🏦%20Banking-User%20Flows%20%26%20Tools-4ecdc4?style=for-the-badge&labelColor=teal)
-![DevEnv](https://img.shields.io/badge/⚙️%20Perfecting-Development%20Environment-45b7d1?style=for-the-badge&labelColor=darkblue)
+![Neovim](https://img.shields.io/badge/⚡%20Neovim-Configuration%20%26%20Workflow-45b7d1?style=for-the-badge&labelColor=darkblue)
+![DevEnv](https://img.shields.io/badge/⚙️%20Dotfiles-Cross%20Platform%20Setup-9333ea?style=for-the-badge&labelColor=purple)
 
 </div>
 
@@ -62,20 +64,29 @@ Build things that solve real problems with minimal complexity
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### 🚀 Tools & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,6 +94,8 @@ Build things that solve real problems with minimal complexity
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 </div>
 
@@ -109,12 +122,12 @@ Build things that solve real problems with minimal complexity
 <br><sub>Always looking for ways to work smarter</sub>
 </td>
 <td align="center" width="25%">
-<br><strong>📱 Mobile Development</strong>
-<br><sub>Apps that feel native and responsive</sub>
+<br><strong>⚡ Neovim Mastery</strong>
+<br><sub>Highly optimized editor with 60+ plugins</sub>
 </td>
 <td align="center" width="25%">
 <br><strong>🔄 Automation</strong>
-<br><sub>If I do it twice, I'll probably script it</sub>
+<br><sub>Cross-platform dotfiles and workflows</sub>
 </td>
 </tr>
 </table>
@@ -139,7 +152,7 @@ Build things that solve real problems with minimal complexity
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitradev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmytrandev)
-[![Portfolio](https://img.shields.io/badge/Personal-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jimmytrandev.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.jimmytrandev.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimmytrandev)
 
 </div>
