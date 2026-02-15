@@ -139,7 +139,7 @@ Build things that solve real problems with clean, efficient code
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JimmyTranDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jimmytrandev&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
