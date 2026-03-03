@@ -14,17 +14,19 @@
 
 ## 🙋‍♂️ About Me
 
-I'm all about getting stuff done efficiently. Whether it's building banking solutions at Storebrand, creating language learning apps, or fine-tuning my Neovim setup to perfection, I believe in tools and workflows that just work.
+I help users achieve their goals faster by building software that delivers real value. With 6+ years of experience in full-stack development (TypeScript, JavaScript, Go, Python, Dart, Lua), I focus on robust architecture, clean code, and rapid adoption of new tools.
+
+What sets me apart is my obsession with efficiency and automation — constantly optimizing workflows, creating solutions for repetitive tasks, and improving productivity by even 1% every day. I customize my tools, like Neovim, and maintain systems that allow me and my team to work smarter, faster, and more effectively.
 
 <table>
 <tr>
 <td>
 
 **🏢 Currently**  
-Building scalable solutions at one of Norway's largest financial companies
+Software Engineer at Storebrand — building high-impact banking solutions (mortgages, credit cards, self-service apps)
 
 **📚 Background**  
-6+ years across full-stack web dev, mobile apps, and everything in between
+6+ years across full-stack web dev, mobile apps, and founding my own startup (Flashient)
 
 </td>
 <td>
@@ -33,7 +35,7 @@ Building scalable solutions at one of Norway's largest financial companies
 English • Norwegian • Japanese • Vietnamese
 
 **⚙️ Philosophy**  
-Build things that solve real problems with clean, efficient code
+Build things that solve real problems with clean, efficient code — and never stop improving
 
 </td>
 </tr>
@@ -45,7 +47,7 @@ Build things that solve real problems with clean, efficient code
 
 <div align="center">
 
-![Working on](https://img.shields.io/badge/🚀%20Revolutionary-Language%20Learning%20App-ff6b6b?style=for-the-badge&labelColor=darkred)
+![Working on](https://img.shields.io/badge/🚀%20MassVocabulary-Closed%20Beta-ff6b6b?style=for-the-badge&labelColor=darkred)
 ![Portfolio](https://img.shields.io/badge/💼%20Portfolio-Next.js%20Website-00d4aa?style=for-the-badge&labelColor=teal)
 ![Banking](https://img.shields.io/badge/🏦%20Banking-User%20Flows%20%26%20Tools-4ecdc4?style=for-the-badge&labelColor=teal)
 ![Neovim](https://img.shields.io/badge/⚡%20Neovim-Configuration%20%26%20Workflow-45b7d1?style=for-the-badge&labelColor=darkblue)
@@ -81,6 +83,7 @@ Build things that solve real problems with clean, efficient code
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -106,6 +109,46 @@ Build things that solve real problems with clean, efficient code
 
 ---
 
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🌐 Personal Portfolio**
+<br>Modern Next.js 15 + React 19 portfolio with sub-second load times, 8 sections, and data-driven architecture.
+<br>[![Portfolio](https://img.shields.io/badge/Live-jimmytrandev.com-ff6b6b?style=flat-square)](https://www.jimmytrandev.com/)
+
+</td>
+<td width="50%">
+
+**📚 Mass Vocabulary**
+<br>Cross-platform vocabulary learning app in closed beta with FSRS spaced repetition and frequency-ordered courses.
+<br>[![MassVocabulary](https://img.shields.io/badge/Beta-massvocabulary.com-ff6b6b?style=flat-square)](https://www.massvocabulary.com/)
+<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚡ [Neovim Config](https://github.com/JimmyTranDev/nvim-config)**
+<br>60+ plugins, sub-25ms startup, AI-first workflow with Copilot, comprehensive LSP for 20+ languages.
+<br>![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+</td>
+<td width="50%">
+
+**🛠️ [Dotfiles](https://github.com/JimmyTranDev/dotfiles)**
+<br>Enterprise-grade dev environment with WTM CLI tool, cross-platform setup (macOS/Linux/WSL), and modern terminal stack.
+<br>![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 What Drives Me
 
 <div align="center">
@@ -126,7 +169,7 @@ Build things that solve real problems with clean, efficient code
 </td>
 <td align="center" width="25%">
 <br><strong>🔄 Automation</strong>
-<br><sub>Cross-platform dotfiles and workflows</sub>
+<br><sub>Cross-platform dotfiles and AI-driven workflows</sub>
 </td>
 </tr>
 </table>
