@@ -133,14 +133,14 @@ Build things that solve real problems with clean, efficient code — and never s
 <td width="50%">
 
 **⚡ [Neovim Config](https://github.com/JimmyTranDev/nvim-config)**
-<br>60+ plugins, sub-25ms startup, AI-first workflow with Copilot, comprehensive LSP for 20+ languages.
+<br>60+ plugins, sub-25ms startup, AI-first workflow with OpenCode CLI (Claude Opus) and Copilot, comprehensive LSP for 20+ languages.
 <br>![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 </td>
 <td width="50%">
 
 **🛠️ [Dotfiles](https://github.com/JimmyTranDev/dotfiles)**
-<br>Enterprise-grade dev environment with WTM CLI tool, cross-platform setup (macOS/Linux/WSL), and modern terminal stack.
+<br>Enterprise-grade dev environment with OpenCode CLI (Claude Opus), WTM CLI tool, cross-platform setup (macOS/Linux/WSL), and modern terminal stack.
 <br>![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
